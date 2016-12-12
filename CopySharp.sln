@@ -9,9 +9,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopySharp.Console", "CopySh
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution items", "Solution items", "{C6EA2998-13ED-4C25-97F4-780EF2DB25BD}"
 	ProjectSection(SolutionItems) = preProject
-		Solution items\CodeSig.snk = Solution items\CodeSig.snk
-		Solution items\CodeSig_Public.snk = Solution items\CodeSig_Public.snk
 		Solution items\CompareIcon.ico = Solution items\CompareIcon.ico
+		LICENSE.txt = LICENSE.txt
+		README.md = README.md
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopySharp.BusinessLogic.Test", "CopySharp.BusinessLogic.Test\CopySharp.BusinessLogic.Test.csproj", "{F0EE0ABA-358A-4BB0-A0C2-58D7D31DCA13}"
